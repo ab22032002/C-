@@ -1,2 +1,4 @@
 for the strings more problems 
 https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/1/?sort_by=partially+solved&p_level 
+stone and jewels 
+https://www.codechef.com/problems/STONES 
